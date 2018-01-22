@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button2Click(TObject *Sender)
+{
+	int n=0;
+	n=StrToInt(Edit1->Text);
+	if ((n%2)!=0) {n=n+1;}
+
+
+
+	int i=1;
+	while( i<=101)
+	{
+		n+=2;
+		Results->Lines->Add(n);
+		i++;
+    }
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+	  Results->Clear();
+	  Edit1->Clear();
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button3Click(TObject *Sender)
+{
+	Close();
+}
+//---------------------------------------------------------------------------

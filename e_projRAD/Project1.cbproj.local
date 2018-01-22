@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/20 12:05:01.000.032,=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/01/20 12:05:03.000.776,=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018/01/20 12:06:39.000.174,C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018/01/22 18:24:12.913,=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>2018/01/22 18:24:24.340,=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/01/22 18:45:22.748,C:\Users\Denys\Desktop\evaluated project RAD\Unit1.h=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/01/22 18:45:22.748,C:\Users\Denys\Desktop\evaluated project RAD\Unit1.dfm=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/01/22 18:45:22.748,C:\Users\Denys\Desktop\evaluated project RAD\Unit1.cpp=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/01/22 18:45:25.030,C:\Users\Denys\Desktop\evaluated project RAD\Project1PCH2.h=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>2018/01/22 18:45:26.362,C:\Users\Denys\Desktop\evaluated project RAD\Project1.cbproj=C:\Users\Denys\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
